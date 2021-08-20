@@ -62,6 +62,9 @@ data contains two columns source and destination eac edge in graph
 ### Test result
 ![image](https://drive.google.com/uc?export=view&id=1AtpbRxFv0-1FPyfO8rYJ-ZfIDjfnwzlj)
 
+### RUN
+ - For running the code on low computional devices USE THIS ``link`` to download the processed file https://drive.google.com/drive/folders/1Q1beCGjWMjZxO-b8BY5x2M0VWNmZmGyC?usp=sharing
+
   
 ## Authors
 
