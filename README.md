@@ -62,9 +62,6 @@ data contains two columns source and destination eac edge in graph
 ### Test result
 ![image](https://drive.google.com/uc?export=view&id=1AtpbRxFv0-1FPyfO8rYJ-ZfIDjfnwzlj)
 
-### For more details 
-- https://sagarsaha455.medium.com/demystifying-facebook-friend-recommendation-using-graph-mining-46f5bfe37b51
-
   
 ## Authors
 
